@@ -1,6 +1,9 @@
-# dice_flutter
+# Dicee Flutter.
 
-A new Flutter application.
+## A new Flutter application.
+
+# OUTPUT
+![](images/dicee-demo.gif)
 
 ## Getting Started
 
